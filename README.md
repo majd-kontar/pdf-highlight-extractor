@@ -14,10 +14,12 @@ Install requirements
 
 ## Usage
 
-Run `main.py` you will be asked to enter the path to the folder containing the pdf you have highlighted (make sure that all the pdfs are in the same
-folder). You will then be asked to enter the output file name (the name of the docx file to be generated)
+Run `main.py` 
+<br/>Enter the path to the folder containing the pdfs you have highlighted (make sure that all the pdfs are in the same
+folder). 
+<br/>Enter the output file name (the name of the docx file to be generated)
 <br/>example: `output`
-<br/>will save the output docx file in the directory of the pdfs as `output.docx`
+will save the output docx file in the directory of the pdfs as `output.docx`
 
 ## References
 
